@@ -1,16 +1,7 @@
 # my_gallery
 
-A new Flutter project.
+Приложение My Gallery. В данном приложении парсятся картинки с сайта https://unsplash.com. Использовалось Rest API, архитектура Cubit, furure builder. Использовались пакеты http, flutter_bloc, bloc, equatable (Для сравнения состояний).
 
-## Getting Started
+My Gallery App. In this application, pictures are parsed from the site https://unsplash.com. Used Rest API, Cubit architecture, furure builder. Packages used were http, flutter_bloc, bloc, equatable (For state comparison).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/ZeAs4c/my_gallery_parse/assets/59208681/65743c4b-e0dd-4bd9-a507-ab0572300080)
